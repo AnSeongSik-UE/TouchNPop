@@ -1,0 +1,9 @@
+자동으로 Plane을 선정하여 Character를 Spawn(Plane이 없을 경우 Spawn가능지역이 없음을 UI로 알림)
+
+Spawn 할 때마다 다른 춤을 추는 Character
+
+Character좌표를 터치 시 Character Destroy 후 Score +1
+
+60부터 1초에 1씩 줄어드는 상단 중앙 타이머, 하단 우측에 0부터 시작하는 Score
+
+PlayGame과 End 후 Retry를 제작할 지는 의논
