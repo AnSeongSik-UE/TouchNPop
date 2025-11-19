@@ -1,0 +1,17 @@
+추가함수 및 변수
+
+BP_ARPawn
+
+Float SpawnTimer
+Integer SpawnCount
+Integer RepickPlaneCount
+
+GetScreenRandomPosition() Pure
+
+GetTouchLocation() -> GetScreenRandomPosition()
+
+GetPlaneRandomPosition() Pure
+
+AddRepickPlaneCount()
+
+ResetPlacement()
