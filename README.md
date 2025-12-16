@@ -9,3 +9,5 @@ AR 두더지 잡기
 - Player가 캐릭터를 터치하면 점수를 1점 획득하도록 터치 이벤트 처리
 - 60초 타이머 기반 게임 종료 처리
 - SaveGame을 활용하여 최고점을 기기에 저장
+
+- 시연영상 : https://drive.google.com/file/d/1-m0gRI1oZ3awstjGG04gp29PgYnynMhd/view?usp=sharing
