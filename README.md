@@ -11,5 +11,3 @@ AR 두더지 잡기
 - SaveGame을 활용하여 최고점을 기기에 저장
 
 - 시연영상 : https://drive.google.com/file/d/1-m0gRI1oZ3awstjGG04gp29PgYnynMhd/view?usp=sharing
-[InternetShortcut]
-URL=https://drive.google.com/file/d/1-m0gRI1oZ3awstjGG04gp29PgYnynMhd/view
