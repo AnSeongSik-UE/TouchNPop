@@ -1,5 +1,3 @@
-K-Digital Training
-
 AR 두더지 잡기
 
 - Google ARCore를 활용하여 실제 공간 인식 기반 AR 캐릭터 배치 기능 구현
