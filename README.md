@@ -1,5 +1,9 @@
 AR 두더지 잡기
 
+<div align="center">
+
+  ![alt Explain](Explain.gif)
+</div>
 
 - AR 공간 매핑: ARCore의 Plane Detection을 활용해 현실 공간의 수평면을 분석하고, 게임 월드의 좌표계와 동기화하여 객체를 정확한 위치에 배치하는 로직 구현.
 - 데이터 영속성: USaveGame 클래스를 커스텀하여 로컬 디바이스에 최고 기록 및 유저 데이터를 직렬화(Serialization)하여 저장/로드하는 시스템 구축.
