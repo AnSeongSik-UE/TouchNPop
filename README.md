@@ -1,6 +1,8 @@
 # TouchNPop
 
-4인 팀 프로젝트 · Unreal Engine 5 / Blueprint / ARCore
+기간: 2025.11 ~ 2025.12
+
+교육과정 4인 팀 프로젝트 · Unreal Engine 5 / Blueprint Only / ARCore
 
 ARCore가 감지한 평면 내부에 캐릭터를 생성하고 상호작용하는 Android AR 두더지잡기 프로젝트입니다.
 
